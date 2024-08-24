@@ -1,0 +1,3 @@
+Flask
+Deepface
+tf-keras
